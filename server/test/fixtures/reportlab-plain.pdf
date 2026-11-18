@@ -1,0 +1,104 @@
+%PDF-1.3
+%“Œ‹ž ReportLab Generated PDF document (opensource)
+1 0 obj
+<<
+/F1 2 0 R /F2 3 0 R
+>>
+endobj
+2 0 obj
+<<
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+>>
+endobj
+3 0 obj
+<<
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+>>
+endobj
+4 0 obj
+<<
+/Contents 8 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 7 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
+>>
+endobj
+5 0 obj
+<<
+/PageMode /UseNone /Pages 7 0 R /Type /Catalog
+>>
+endobj
+6 0 obj
+<<
+/Author (anonymous) /CreationDate (D:20000101000000+00'00') /Creator (anonymous) /Keywords () /ModDate (D:20000101000000+00'00') /Producer (ReportLab PDF Library - \(opensource\)) 
+  /Subject (unspecified) /Title (untitled) /Trapped /False
+>>
+endobj
+7 0 obj
+<<
+/Count 1 /Kids [ 4 0 R ] /Type /Pages
+>>
+endobj
+8 0 obj
+<<
+/Length 1286
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+BT /F2 12 Tf 14.4 TL ET
+BT 1 0 0 1 50 800 Tm (Priya Sharma) Tj T* ET
+BT /F1 11 Tf 13.2 TL ET
+BT 1 0 0 1 50 778 Tm (priya.sharma@example.com | +91 98765 43210) Tj T* ET
+BT /F1 11 Tf 13.2 TL ET
+BT 1 0 0 1 50 762 Tm  T* ET
+BT /F2 12 Tf 14.4 TL ET
+BT 1 0 0 1 50 746 Tm (EXPERIENCE) Tj T* ET
+BT /F1 11 Tf 13.2 TL ET
+BT 1 0 0 1 50 728 Tm (Backend Developer Intern - Globex \(2024\)) Tj T* ET
+BT /F1 11 Tf 13.2 TL ET
+BT 1 0 0 1 50 712 Tm (- Built REST APIs with Node.js and Express serving 10k requests per day.) Tj T* ET
+BT /F1 11 Tf 13.2 TL ET
+BT 1 0 0 1 50 696 Tm (- Reduced p95 latency by 35% by adding Redis caching to hot endpoints.) Tj T* ET
+BT /F1 11 Tf 13.2 TL ET
+BT 1 0 0 1 50 680 Tm  T* ET
+BT /F2 12 Tf 14.4 TL ET
+BT 1 0 0 1 50 664 Tm (PROJECTS) Tj T* ET
+BT /F1 11 Tf 13.2 TL ET
+BT 1 0 0 1 50 646 Tm (Expense Tracker - React, Express, PostgreSQL) Tj T* ET
+BT /F1 11 Tf 13.2 TL ET
+BT 1 0 0 1 50 630 Tm (- Designed a relational schema and wrote aggregation queries for monthly reports.) Tj T* ET
+BT /F1 11 Tf 13.2 TL ET
+BT 1 0 0 1 50 614 Tm  T* ET
+BT /F2 12 Tf 14.4 TL ET
+BT 1 0 0 1 50 598 Tm (SKILLS) Tj T* ET
+BT /F1 11 Tf 13.2 TL ET
+BT 1 0 0 1 50 580 Tm (JavaScript, TypeScript, React, Node.js, Express, PostgreSQL, Redis, Docker) Tj T* ET
+ 
+endstream
+endobj
+xref
+0 9
+0000000000 65535 f 
+0000000061 00000 n 
+0000000102 00000 n 
+0000000209 00000 n 
+0000000321 00000 n 
+0000000524 00000 n 
+0000000592 00000 n 
+0000000853 00000 n 
+0000000912 00000 n 
+trailer
+<<
+/ID 
+[<1c178198fbdfa51b25995d89d4102043><1c178198fbdfa51b25995d89d4102043>]
+% ReportLab generated PDF document -- digest (opensource)
+
+/Info 6 0 R
+/Root 5 0 R
+/Size 9
+>>
+startxref
+2249
+%%EOF
